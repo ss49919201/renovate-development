@@ -3,7 +3,7 @@ module pm_example
 go 1.20
 
 require (
-	github.com/aws/aws-sdk-go v1.44.299
+	github.com/aws/aws-sdk-go v1.44.300
 	github.com/aws/aws-sdk-go-v2/service/acm v1.17.13
 )
 
